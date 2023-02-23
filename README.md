@@ -1,5 +1,5 @@
 <h1 align="center">To Do List</h1>
-<h3 align="center">Lista de tarefas, com a funcionalidade de adicionar novas tarefas e marcar como concluidas, com janela de erro caso escreva a mesma tarefa e caso tente adicionar uma tarefa sem escrever nada no campo de texto </h3>
+<h5 align="center">Lista de tarefas, com a funcionalidade de adicionar novas tarefas e marcar como concluidas, com janela de erro caso escreva a mesma tarefa e caso tente adicionar uma tarefa sem escrever nada no campo de texto </h5>
 <div style="display: inline_block" align="center">
 <h2 align="center">Tecnologias utilizadas</h2>
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
