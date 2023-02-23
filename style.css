@@ -78,7 +78,7 @@ body {
   padding-left: 1rem;
 }
 
-#btn-ok {
+.btn-ok {
   border: none;
   background-color: var(--color-dark3);
   color: var(--color-walter-white);
@@ -94,6 +94,6 @@ body {
   transition: 0.4s;
 }
 
-#btn-ok:hover {
+.btn-ok:hover {
   background-color: var(--color-green);
 }
